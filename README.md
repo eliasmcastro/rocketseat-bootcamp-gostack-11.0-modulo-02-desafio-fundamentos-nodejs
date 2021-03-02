@@ -32,8 +32,8 @@
 
 ### Executar
 
-- `git clone https://github.com/eliasmcastro/rocketseat-bootcamp-gostack-11.0-modulo-02-desafio-fundamentos-nodejs.git` para clonar este repositório
-- `cd rocketseat-bootcamp-gostack-11.0-modulo-02-desafio-fundamentos-nodejs` para entrar na pasta do projeto
+- `git clone https://github.com/eliasmcastro/rocketseat-bootcamp-gostack-11.0-modulo-02-desafio.git` para clonar este repositório
+- `cd rocketseat-bootcamp-gostack-11.0-modulo-02-desafio` para entrar na pasta do projeto
 - `yarn` para instalar as dependências do projeto
 - `yarn dev:server` para iniciar o servidor de desenvolvimento
 - Acessar http://localhost:3333
